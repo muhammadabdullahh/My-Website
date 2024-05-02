@@ -217,17 +217,8 @@ section .title::after{
 .about .title::after{
     content: "who i am";
 }
-.about .about-content .left{
-    width: 45%;
-}
-.about .about-content .left img{
-    height: 400px;
-    width: 400px;
-    object-fit: cover;
-    border-radius: 6px;
-}
 .about .about-content .right{
-    width: 55%;
+    width: 100%;
 }
 .about .about-content .right .text{
     font-size: 25px;
